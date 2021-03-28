@@ -56,4 +56,5 @@
 * 09/1998 – 06/2002 9th Belgrade Grammar School “Mihailo Petrovic Alas”
  
 # Certificates
-[Click to see my certificates.](https://www.youracclaim.com/users/dejan-petkovic)
+* [Click to see my AWS/Azure/Terraform certificates](https://www.youracclaim.com/users/dejan-petkovic)
+* [Click to see my Coursera certificates](https://coursera.org/share/32a42acb44082359b7c10bfea2f765ee)
