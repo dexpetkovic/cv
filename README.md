@@ -7,7 +7,9 @@
 
 ## Professional experience
 * From 07/2019 – present Senior Data Engineer at KPN Technium B.V.
-    * Development of ETL automation platform based on Hadoop & Kafka ecosystem
+    * Development of ETL automation framework and platform in Azure, based on Hadoop & Kafka ecosystem, automated by Terraform
+    * Development of metadata driven ETL rendering framework with Python, Flask and SQLAlchemy
+    * Migration of on-premise data platform services to Azure and AWS
     * Development of distributed event sourcing application for “real-time” analysis of KPN customer journey where multiple touchpoints are combined, analyzed and visualized
     * Python and Scala stacks render Hadoop and Spark applications for ~100 data sources
     * Scala stack with Akka/Alpakka is used to build microservices and Flink applications
@@ -19,13 +21,13 @@
     * Setting up and developing upon data streaming solution with Kafka, Camel, Mule, ElasticSearch, Spring, Grails, Docker
     * Data analysis with Pandas, Jupyter, d3.js
 * 06/2012 – 01/2017 Senior System Engineer at Liberty Global B.V.
-    * As member of Liberty Global OTT streaming solution architecture & engineering team, I was busy with architecture of various system components, defining and managing cloud (micro)services infrastructure, CDN content delivery, Adobe AEM and their integration
+    * As member of Liberty Global OTT streaming solution architecture & engineering team, I was busy with architecture of various system components, defining and managing AWS (micro)services infrastructure, CDN content delivery, Adobe AEM and their integration
     * Software development in Python
-    * Through work with high availability services I acquired deep knowledge of web and backend application design, streaming technologies, HA scalable infrastructure, cloud orchestration technologies and full stack network protocols
+    * Through work with high availability services I acquired deep knowledge of web and backend application design, streaming technologies, HA scalable infrastructure, AWS cloud and full stack network protocols
     * Data analysis with Jupyter, Wireshark, Conviva, Omniture
     * Performing code reviews and overall system troubleshooting
 * 01/2012 – 05/2012 System/Network Engineer IPTV – Consultant at T-Mobile Netherlands B.V.
-    * As member of T-Mobile Network Engineering team, I was building functional specifications, architecture and performing integration of Huawei IPTV platform
+    * As member of T-Mobile Network Engineering team, I was building functional specifications, architecture and performing hands-on system integration of Huawei IPTV platform
 * 07/2009 – 12/2011 Senior IPTV Network Engineer at Intracom Telecom Serbia
     * I was a 3-member team lead in Serbia. The team was busy with designing and building the platform over the years to 100000+ users in Telecom Serbia
     * As team lead I was responsible for reviewing of system architecture, full-scale system & network hands-on troubleshooting, development of Perl/Python/Bash system management and monitoring solutions.
