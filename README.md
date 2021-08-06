@@ -1,15 +1,15 @@
 # Dejan Petković - Curriculum Vitae
 
 ## Profile
-- I am a software developer with current focus on the development of framework that renders batch and event-sourcing data processing applications using Python and Scala on top of Hadoop & Kafka with a little help from Flink, Spark, Akka, Docker and CI/CD
-- In spare time I love to spend time with family and play with tech such as Spark on Databricks and Google Flutter
-- I have significant AWS and Azure experience from both architectural and development perspective
+- I am a software developer with current focus on the development of framework that renders batch and event-sourcing data processing applications using Python and Scala on top of Hadoop & Kafka with a little help from Flink, Spark, Akka and Docker
+- In spare time I love to spend time with family and play with tech
+- I have significant CI/CD, AWS and Azure experience from both architectural and development perspective
 
 ## Professional experience
 * From 07/2019 – present Senior Data Engineer at KPN Technium B.V.
     * Development of ETL automation framework and platform in Azure, based on Hadoop & Kafka ecosystem, automated by Terraform
     * Development of metadata driven ETL rendering framework with Python, Flask and SQLAlchemy
-    * Migration of on-premise data platform services to Azure and AWS
+    * Taking lead in story mapping for migration of on-premise data platform services to Azure
     * Development of distributed event sourcing application for “real-time” analysis of KPN customer journey where multiple touchpoints are combined, analyzed and visualized
     * Python and Scala stacks render Hadoop and Spark applications for ~100 data sources
     * Scala stack with Akka/Alpakka is used to build microservices and Flink applications
