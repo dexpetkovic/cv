@@ -6,7 +6,7 @@
 - I have significant CI/CD, AWS and Azure experience from both architectural and development perspective
 
 ## Professional experience
-* From 07/2019 – present Senior Data Engineer at KPN Technium B.V.
+* From 07/2019 – present Senior Software Developer at KPN Technium B.V.
     * Development of ETL automation framework and platform in Azure, based on Hadoop & Kafka ecosystem, automated by Terraform
     * Development of metadata driven ETL rendering framework with Python, Flask and SQLAlchemy
     * Taking lead in story mapping for migration of on-premise data platform services to Azure
@@ -14,15 +14,15 @@
     * Python and Scala stacks render Hadoop and Spark applications for ~100 data sources
     * Scala stack with Akka/Alpakka is used to build microservices and Flink applications
     * Utilizing DevOps methodology with fully automated CI/CD, monitoring and alerting
-* 02/2017 – 05/2018 Senior Cognitive Implementation Engineer at IPsoft B.V.
+* 02/2017 – 05/2018 Software Engineer, Cognitive Implementation at IPsoft B.V.
     * As technical lead of a 3-member agile team I was responsible for development of human-machine interaction on artificial intelligence framework “Amelia”.
     * I was mostly busy with hands-on development, code reviewing, mentoring and Scrum rituals.
     * Development was mostly in Groovy/Python and in Java
     * Setting up and developing upon data streaming solution with Kafka, Camel, Mule, ElasticSearch, Spring, Grails, Docker
     * Data analysis with Pandas, Jupyter, d3.js
 * 06/2012 – 01/2017 Senior System Engineer at Liberty Global B.V.
-    * As member of Liberty Global OTT streaming solution architecture & engineering team, I was busy with architecture of various system components, defining and managing AWS (micro)services infrastructure, CDN content delivery, Adobe AEM and their integration
-    * Software development in Python
+    * As member of Liberty Global OTT streaming solution architecture & engineering team, I was busy with architecture of various system components, developing AWS (micro)services infrastructure, CDN content delivery, Adobe AEM and their integration
+    * Microservices development in Python
     * Through work with high availability services I acquired deep knowledge of web and backend application design, streaming technologies, HA scalable infrastructure, AWS cloud and full stack network protocols
     * Data analysis with Jupyter, Wireshark, Conviva, Omniture
     * Performing code reviews and overall system troubleshooting
