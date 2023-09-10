@@ -1,57 +1,77 @@
 # Dejan Petković - Curriculum Vitae
 
 ## Profile
-- I am a software developer with current focus on the development of framework that renders batch and event-sourcing data processing applications using Python and Scala on top of Hadoop & Kafka with a little help from Flink, Spark, Akka and Docker
-- In spare time I love to spend time with family and play with tech
-- I have significant CI/CD, AWS and Azure experience from both architectural and development perspective
+
+- From system integrations to AI frameworks and full-stack development, I've been diving deep into the world of tech since 2008, continually evolving with the rapid pace of the industry.
+- My journey began in Serbia, integrating traditional IPTV systems, and took me to the Netherlands where I embraced cloud development for streaming platforms. From there, I ventured into AI-human interactions, data processing, and now, I'm harnessing the power of the full-stack ecosystem with React and NodeJS.
+- When I'm not coding, I'm cherishing moments with my family, exploring new tech toys, and occasionally daydreaming about the next big thing in software engineering.
 
 ## Professional experience
-* From 07/2019 – present Senior Software Developer at KPN Technium B.V.
+* From 12/2021 - now Lead Fullstack Software Engineer at Hurricane Studio
+  * Team lead in a small startup studio, leading a team of 5 backend and frontend developers
+  * Architected solutions in React Native, NodeJS and AWS
+  * Many "popular" tools are used for the projects, such as
+    * TypeORM for - ORM
+    * Sentry for events monitoring
+    * RevenueCat for payments
+    * Strapi for content management
+    * Google Analytics, Meta Pixel, Drip, Amplitude and Mixpanel for analytics
+  * Doing App Store and Play store releases
+* From 05/2018 – 12/2021 Senior Software Developer at KPN Technium B.V.
+  * This role was a deep dive into data and taught me the intricacies of customer journey analysis.
+  * Day to day grind consisted of:
     * Development of ETL automation framework and platform in Azure, based on Hadoop & Kafka ecosystem, automated by Terraform
-    * Development of metadata driven ETL rendering framework with Python, Flask and SQLAlchemy
-    * Taking lead in story mapping for migration of on-premise data platform services to Azure
+      * The rendering framework was built with Python, Flask and SQLAlchemy
+      * Led story mapping for migration of on-premise data platform services to Azure 
     * Development of distributed event sourcing application for “real-time” analysis of KPN customer journey where multiple touchpoints are combined, analyzed and visualized
-    * Python and Scala stacks render Hadoop and Spark applications for ~100 data sources
-    * Scala stack with Akka/Alpakka is used to build microservices and Flink applications
+      * Scala stack with Akka/Alpakka is used to build microservices and Flink applications
     * Utilizing DevOps methodology with fully automated CI/CD, monitoring and alerting
 * 02/2017 – 05/2018 Software Engineer, Cognitive Implementation at IPsoft B.V.
-    * As technical lead of a 3-member agile team I was responsible for development of human-machine interaction on artificial intelligence framework “Amelia”.
-    * I was mostly busy with hands-on development, code reviewing, mentoring and Scrum rituals.
-    * Development was mostly in Groovy/Python and in Java
-    * Setting up and developing upon data streaming solution with Kafka, Camel, Mule, ElasticSearch, Spring, Grails, Docker
-    * Data analysis with Pandas, Jupyter, d3.js
+    * This role enabled me to learn much more about machine learning, prompt engineering and making data-driven decisions
+    * A part of the role was data analysis with Pandas, Jupyter and visualisation with d3.js, and making new features (or refactoring) decisions from the insights
+    * As technical lead of a 3-member agile team I was responsible for development of human-machine interaction on artificial intelligence framework "Amelia".
+    * I was mostly busy with hands-on development, code reviewing, mentoring and Scrum rituals
+    * The role included managing business requirements and solution architecting
+    * Development was done mostly in Groovy/Python and in Java
+    * The technical stack included Kafka, Camel, Mule, ElasticSearch, Spring, Grails, Docker
 * 06/2012 – 01/2017 Senior System Engineer at Liberty Global B.V.
-    * As member of Liberty Global OTT streaming solution architecture & engineering team, I was busy with architecture of various system components, developing AWS (micro)services infrastructure, CDN content delivery, Adobe AEM and their integration
-    * Microservices development in Python
+    * As member of Liberty Global OTT streaming solution architecture & engineering team, I learned how to mix software and system engineering skills to solve hard tasks
     * Through work with high availability services I acquired deep knowledge of web and backend application design, streaming technologies, HA scalable infrastructure, AWS cloud and full stack network protocols
+    * I developed AWS (micro)services infrastructure, worked on the CDN content delivery system, Adobe AEM and their integration 
     * Data analysis with Jupyter, Wireshark, Conviva, Omniture
     * Performing code reviews and overall system troubleshooting
 * 01/2012 – 05/2012 System/Network Engineer IPTV – Consultant at T-Mobile Netherlands B.V.
     * As member of T-Mobile Network Engineering team, I was building functional specifications, architecture and performing hands-on system integration of Huawei IPTV platform
 * 07/2009 – 12/2011 Senior IPTV Network Engineer at Intracom Telecom Serbia
-    * I was a 3-member team lead in Serbia. The team was busy with designing and building the platform over the years to 100000+ users in Telecom Serbia
-    * As team lead I was responsible for reviewing of system architecture, full-scale system & network hands-on troubleshooting, development of Perl/Python/Bash system management and monitoring solutions.
+    * I was leading a 3-member team lead that was busy with designing and building the platform over the years to 100000+ users in Telecom Serbia
+    * Responsibilities included reviewing of system architecture, full-scale system & network hands-on troubleshooting, development of Perl/Python/Bash system management and monitoring solutions.
 * 01/2008 – 06/2009 Junior Radio/System Engineer at Intracom Telecom Serbia
     * As junior engineer I was busy with system integration and technical support of Intracom Telecom fs|cdn IPTV Middleware project and Axxcelera WiMax network in Telecom Serbia
  
 # Technical knowledge and other skills
 ## Software engineering
+### What I am learning next
+* Using Expo
+* Integrating chatGPT in the workflows
 ### Programming languages
+* Typescript
 * Python
 * Scala
 * Groovy
 * Java
 ### Frameworks and Libraries
-* Jenkins
-* Terraform
-* Git
+* React Native
+* ReactJS
+* Strapi
+* Spring
 * Flask
 * pandas
 * Akka
 * Protobuf/Avro
 * Camel
-* Spring
-* Chef/OpsWorks
+* Jenkins
+* Terraform
+* Git
 ## Software platforms 
 * AWS
 * Azure
@@ -62,7 +82,6 @@
 * Flink
 * MuleSoft
 * apache/nginx
-* Varnish
 * Linux
 * Wireshark
 ## Organizational toolset
