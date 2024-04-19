@@ -8,7 +8,7 @@
 - When I'm not coding, I'm cherishing moments with my family, exploring new tech toys, and occasionally daydreaming about the next big thing in software engineering.
 
 ## Professional experience
-* From 12/2021 - now Lead Fullstack Software Engineer at Hurricane Studio
+* From 12/2021 - now Lead Fullstack Software Engineer
   * Team lead in a small startup studio, leading a team of 5 backend and frontend developers
   * Architected solutions in React Native, NodeJS and AWS
   * Many "popular" tools are used for the projects, such as
