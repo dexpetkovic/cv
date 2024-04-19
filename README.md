@@ -1,7 +1,5 @@
 # About myself
 
-## Profile
-
 Hello, my name is Dejan!
 
 I have wide tech hard and soft skills experinence, and am in business since 2008. It goes from system integrations to AI frameworks and full-stack development. 
