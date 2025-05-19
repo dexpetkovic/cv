@@ -11,7 +11,14 @@ My journey began in Serbia, integrating traditional IPTV systems, and took me to
 When I'm not coding, I'm cherishing moments with my family, exploring new tech toys, and occasionally daydreaming about the next big thing in software engineering.
 
 ## Professional experience
-* From 12/2021 - now Lead Fullstack Software Engineer
+* From 09/2024 - 05/2025 Expert Software Engineer
+  * Helping out to build a new gift redemption platform for Totally Gifts, fully from scratch
+  * Architected solutions in React Native, NodeJS and AWS
+  * Many "popular" tools are used for the projects, such as
+    * NextJS, TailwindCSS, Clerk, Sentry, NestJS, PostgreSQL, Docker, AWS have been used to build the solution
+    * Event-driven architecture was used to capture gift card events and process them in real-time
+    * I was working both in frontend and backend within team of three engineers, designer and product owner
+* From 12/2021 - 09/2024 Lead Fullstack Software Engineer
   * Team lead in a small startup studio, leading a team of 5 backend and frontend developers
   * Architected solutions in React Native, NodeJS and AWS
   * Many "popular" tools are used for the projects, such as
